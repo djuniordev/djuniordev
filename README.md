@@ -69,3 +69,4 @@
 <br>
 <h1></h1>
 
+![snake gif](https://github.com/djuniordev/djuniordev/blob/output/github-contribution-grid-snake.gif)
