@@ -69,4 +69,4 @@
 <br>
 <h1></h1>
 
-![Snake animation](https://github.com/djuniordev/djuniordev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/djuniordev/djuniordev/blob/output/github-contribution-grid-snake.gif)
