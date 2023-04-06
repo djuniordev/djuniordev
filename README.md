@@ -1,5 +1,4 @@
 <br>
-<br>
 <h1 align="center">Olá! Me chamo Daniel Júnior.</h1>
 <p align="center">Seja bem-vindo ao meu GitHub! Você poderá acessar alguns códidos que já desenvolvi relacionados a programação. 👋</p>
 <br>
