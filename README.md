@@ -30,28 +30,23 @@
 
 <h1></h1>
 
-<h3>🏆 Algumas das minhas conquistas como programador na robótica: </h3><br>
-<ul>
-    <li>🥇 <b><i>International Tournament of Robots</i> (ITR) 2021</b><br>
-    Campeão mundial de Cabo de Guerra e Cabo de Guerra 2x2<br>
-    </li>
-    <li>🥇 <b>Torneio Juvenil de Robótica (TJR) 2021</b><br>
-    Campeão Regional de Viagem ao Centro da Terra<br>
-    Campeão Nacional de Viagem ao Centro da 
-    Terra, Cabo de Guerra e Cabo de Guerra 2x2 </li>
-    <li><b>🥇 FIRA BRASIL 2021 e 2022</b><br>
-    Campeão Nacional de DRC Explorer (2021)<br>
-    Vice-Campeão Estadual de DRC Explorer, Cabo de Guerra e Missão Impossível (2022)<br>
-    Campeão Nacional de Cabo de Guerra (2022)
-    </li>
-    <li>🥇 <b><i>Fira World Cup</i> 2022</b><br>
-    Vice-Campeão Mundial de Cabo de Guerra (2022).
-    </li>
-    <li>🥇 <b>IEMA Pleno São José de Ribamar 2022</b><br>Honra ao Mérito – Destaque em premiações de 
-    robótica.
-</li>
-</ul>
-<br>
+### 🏆 Algumas das minhas conquistas como programador na robótica: 
+
+* `🥇 International Tournament of Robots (ITR) 2021:`<br>
+Campeão mundial de Cabo de Guerra e Cabo de Guerra 2x2
+* `🥇 Torneio Juvenil de Robótica (TJR) 2021:`<br>
+Campeão Regional de Viagem ao Centro da Terra<br>
+Campeão Nacional de Viagem ao Centro da Terra, Cabo de Guerra e Cabo de Guerra 2x2
+* `🥇 FIRA BRASIL 2021 e 2022:`<br>
+Campeão Nacional de DRC Explorer (2021)<br>
+Vice-Campeão Estadual de DRC Explorer, Cabo de Guerra e Missão Impossível (2022)<br>
+Campeão Nacional de Cabo de Guerra (2022)
+* `🥇 Fira World Cup 2022:`<br>
+Vice-Campeão Mundial de Cabo de Guerra (2022)
+* `🥇 IEMA Pleno São José de Ribamar 2022:`<br>
+Honra ao Mérito – Destaque em premiações de 
+robótica.
+
 <h1></h1>
 
 <div style="display: inline_block" align="center"><br>
@@ -66,6 +61,7 @@
     </a>
 </div>
 <br>
+
 <h1></h1>
 <div align="center">
     <img src="https://github.com/Thxssio/github-contribution-grid-snake.svg/blob/main/github-contribution-grid-snake.svg">
