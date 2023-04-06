@@ -66,6 +66,7 @@
     </a>
 </div>
 <br>
+<h1></h1>
 <div align="center">
     <img src="https://github.com/Thxssio/github-contribution-grid-snake.svg/blob/main/github-contribution-grid-snake.svg">
 </div>
