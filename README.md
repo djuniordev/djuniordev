@@ -67,6 +67,6 @@
     </a>
 </div>
 <br>
-<h1></h1>
-
-![Snake animation](https://github.com/djuniordev/djuniordev/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+    <img src="https://github.com/Thxssio/github-contribution-grid-snake.svg/blob/main/github-contribution-grid-snake.svg">
+</div>
