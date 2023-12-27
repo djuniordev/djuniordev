@@ -40,7 +40,7 @@ Campeão Nacional de Viagem ao Centro da Terra, Cabo de Guerra e Cabo de Guerra 
 * `🥇 FIRA BRASIL 2021, 2022 e 2023:`<br>
 Campeão Nacional de DRC Explorer (2021)<br>
 Vice-Campeão Estadual de DRC Explorer, Cabo de Guerra e Missão Impossível (2022)<br>
-Campeão Nacional de Cabo de Guerra (2022)
+Campeão Nacional de Cabo de Guerra (2022)<br>
 Campeão Estadual de DRC Explorer e Cabo de Guerra (2023)<br>
 Vice-Campeão de Missão Impossível (2023)<br>
 * `🥇 FIRA WORLD CUP 2022:`<br>
