@@ -37,11 +37,13 @@ Campeão mundial de Cabo de Guerra e Cabo de Guerra 2x2
 * `🥇 Torneio Juvenil de Robótica (TJR) 2021:`<br>
 Campeão Regional de Viagem ao Centro da Terra<br>
 Campeão Nacional de Viagem ao Centro da Terra, Cabo de Guerra e Cabo de Guerra 2x2
-* `🥇 FIRA BRASIL 2021 e 2022:`<br>
+* `🥇 FIRA BRASIL 2021, 2022 e 2023:`<br>
 Campeão Nacional de DRC Explorer (2021)<br>
 Vice-Campeão Estadual de DRC Explorer, Cabo de Guerra e Missão Impossível (2022)<br>
 Campeão Nacional de Cabo de Guerra (2022)
-* `🥇 Fira World Cup 2022:`<br>
+Campeão Estadual de DRC Explorer e Cabo de Guerra (2023)<br>
+Vice-Campeão de Missão Impossível (2023)<br>
+* `🥇 FIRA WORLD CUP 2022:`<br>
 Vice-Campeão Mundial de Cabo de Guerra (2022)
 * `🥇 IEMA Pleno São José de Ribamar 2022:`<br>
 Honra ao Mérito – Destaque em premiações de 
