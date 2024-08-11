@@ -4,7 +4,7 @@
 <br>
 <h3>🙋🏻‍♂️ Um pouco sobre mim: </h3>
 <ul>
-    <li>👨🏻‍🎓 Estou fazendo graduação em Sistemas de Informação</li>
+    <li>👨🏻‍🎓 Estou fazendo graduação em Análise e Desenvolvimento de Sistemas</li>
     <li>🐍 A minha linguagem preferida e que mais gosto de trabalhar é o Python</li>
     <li>🤖 Sou campeão mundial de robótica</li>
     <li>📪 Quer entrar em contato comigo? Instagram: @djuniordev | Email: <a href="mailto:danieljunior.me@gmail.com">danieljunior.me@gmail.com</li>
