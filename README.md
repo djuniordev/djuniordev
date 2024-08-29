@@ -62,9 +62,3 @@ robótica.
     <img align="center" alt="instagram" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
 </div>
-<br>
-
-<h1></h1>
-<div align="center">
-    <img src="https://github.com/Thxssio/github-contribution-grid-snake.svg/blob/main/github-contribution-grid-snake.svg">
-</div>
